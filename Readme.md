@@ -1,1 +1,1 @@
-This is a Readme file - revision 1
+This is a Readme file
